@@ -14,7 +14,7 @@ I'm a full stack developer who loves challenges and never stops learning. I enjo
 * ⚡  Big fan of basketball and weight training. Both keep me sharp, focused, and motivated—just like coding!
 
 <a href="https://www.github.com/santipan2003" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/github/followers/santipan2003?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
+src="https://img.shields.io/github/followers/godp4lm?logo=github&style=for-the-badge&color=ef4444&labelColor=1c1917" /></a>
 ### Skills
 
 <p align="left">
